@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{pedantic-yonath-0a751a.netlify.app/}">
+    <a href="https://pedantic-yonath-0a751a.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{devchallenges.io/solutions/4jAnxW4dhJ9LMPBsjz0w}">
+    <a href="https://devchallenges.io/solutions/4jAnxW4dhJ9LMPBsjz0w">
       Solution
     </a>
     <span> | </span>
