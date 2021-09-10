@@ -34,5 +34,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/Brian-Rono})
-- Twitter [@your-twitter](https://{twitter.com/PaqeF})
+- GitHub [@Brian-Rono](https://{github.com/Brian-Rono})
+- Twitter [@PaqeF](https://{twitter.com/PaqeF})
